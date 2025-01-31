@@ -2,8 +2,8 @@ This repository contains a machine learning model for predicting stock prices ba
 
 📌 Features
 
-Historical stock price data analysis
-Data preprocessing and feature engineering
-Machine learning models (LSTM, ARIMA, Random Forest, etc.)
-Performance evaluation using metrics such as RMSE & MAE
-Interactive visualization of predictions
+Historical stock price data analysis.
+Data preprocessing and feature engineering.
+Machine learning models (LSTM, ARIMA, Random Forest, etc.).
+Performance evaluation using metrics such as RMSE & MAE.
+Interactive visualization of predictions.
